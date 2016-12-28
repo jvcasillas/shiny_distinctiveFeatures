@@ -23,10 +23,10 @@ shinyUI(
         p(strong("Created by:"), 
         tags$a("Joseph V. Casillas", href="http://www.jvcasillas.com"),
         br(), strong("Source code:"), 
-        tags$a("Github", href="https://github.com/jvcasill/shiny_bivariate_regression/")),
+        tags$a("Github", href="https://github.com/jvcasill/shiny_distinctiveFeatures/"))
         
         # Include download bottom
-        downloadButton('downloadData', 'Download')
+        #downloadButton('downloadData', 'Download')
       )), 
       column(3, 
         h2(''),
