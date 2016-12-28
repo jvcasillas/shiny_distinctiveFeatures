@@ -1,13 +1,13 @@
-allophone,html,voicing,place,mode,syllabic,consonantal,approximant,sonorant,resonant,voice,spreadGlottis,constrictedGlottis,continuant,nasal,strident,lateral,delayedRel,labial,round,coronal,anterior,distributed,dorsal,high,low,front,back,pharyngeal,glottal
-i,i,voiced,high,front,+,-,-,+,-,+,-,-,+,-,-,-,-,0,-,0,+,0,0,+,-,+,-,-,-
-e,e,voiced,mid,front,+,-,-,+,-,+,-,-,+,-,-,-,-,0,-,0,+,0,0,-,-,+,-,-,-
-a,a,voiced,low,central,+,-,-,+,-,+,-,-,+,-,-,-,-,0,-,0,-,0,0,-,+,-,-,-,-
-o,o,voiced,mid,"back, rounded",+,-,-,+,-,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
-u,u,voiced,high,"back, rounded",+,-,-,+,-,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
-iGlide,i&#815;,voiced,high,front,-,-,-,+,-,+,-,-,+,-,-,-,-,-,-,0,+,0,0,+,-,+,-,-,-
-eGlide,e&#815;,voiced,mid,front,-,-,-,+,-,+,-,-,+,-,-,-,-,-,-,0,+,0,0,-,-,+,-,-,-
-oGlide,o&#815;,voiced,mid,"back, rounded",-,-,-,+,-,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
-uGlide,u&#815;,voiced,high,"back, rounded",-,-,-,+,-,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
+allophone,html,voicing,place,mode,syllabic,consonantal,approximant,sonorant,resonant,voice,spreadGlottis,constrictedGlottis,continuant,nasal,strident,lateral,delayedRelease,labial,round,coronal,anterior,distributed,dorsal,high,low,front,back,pharyngeal,glottal
+i,i,voiced,high,front,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,+,0,0,+,-,+,-,-,-
+e,e,voiced,mid,front,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,+,0,0,-,-,+,-,-,-
+a,a,voiced,low,central,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,-,0,0,-,+,-,-,-,-
+o,o,voiced,mid,"back, rounded",+,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
+u,u,voiced,high,"back, rounded",+,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
+iGlide,i&#815;,voiced,high,front,-,-,-,-,+,+,-,-,+,-,-,-,-,-,-,0,+,0,0,+,-,+,-,-,-
+eGlide,e&#815;,voiced,mid,front,-,-,-,-,+,+,-,-,+,-,-,-,-,-,-,0,+,0,0,-,-,+,-,-,-
+oGlide,o&#815;,voiced,mid,"back, rounded",-,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
+uGlide,u&#815;,voiced,high,"back, rounded",-,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
 p,p,voiceless,bilabial,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
 t,t&#810;,voiceless,dental,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
 k,k,voiceless,velar,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
@@ -29,11 +29,11 @@ jj,&#658;,voiced,alveopalatal,fricative,-,+,-,-,-,+,-,-,+,-,+,-,-,-,-,+,-,-,+,-,
 j,&#669;,voiced,palatal,fricative,-,+,-,-,-,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
 ts,&#x2A7;,voiceless,alveopalatal,affricate,-,+,-,-,-,-,-,0,+,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-
 ds,&#x2A4;,voiced,alveopalatal,affricate,-,+,-,-,-,+,-,0,+,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-
-B,&beta;,voiced,bilabial,approximate,-,+,+,-,+,+,-,0,+,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
-D,&eth;,voiced,dental,approximate,-,+,+,-,+,+,-,0,+,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
-J,j,voiced,palatal,approximate,-,-,+,-,+,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
-G,&gamma;,voiced,velar,approximate,-,+,+,-,+,+,-,0,+,-,-,-,-,-,-,-,+,-,+,+,-,-,-,-,-
-w,w,voiced,labiovelar,approximate,-,-,+,-,+,+,-,0,+,-,-,-,-,+,+,-,-,-,+,+,-,-,-,-,-
+B,&beta;,voiced,bilabial,approximate,-,+,+,+,+,+,-,0,+,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+D,&eth;,voiced,dental,approximate,-,+,+,+,+,+,-,0,+,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+J,j,voiced,palatal,approximate,-,-,+,+,+,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
+G,&gamma;,voiced,velar,approximate,-,+,+,+,+,+,-,0,+,-,-,-,-,-,-,-,+,-,+,+,-,-,-,-,-
+w,w,voiced,labiovelar,approximate,-,-,+,+,+,+,-,0,+,-,-,-,-,+,+,-,-,-,+,+,-,-,-,-,-
 lth,l&#800;,voiced,interdental,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,-,-,-,-,-,-,-,-
 ldn,l&#810;,voiced,dental,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,-,-,-,-,-,-,-,-
 l,l,voiced,alveolar,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,+,-,-,-,-,-,-,-

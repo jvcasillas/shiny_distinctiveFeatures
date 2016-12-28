@@ -3,7 +3,7 @@ class,NA,syllabic,"Syllabic segments may function as the nucleus of a syllable, 
 class,NA,consonantal,"Consonantal segments are produced with an audible constriction in the vocal tract, such as obstruents, nasals, liquids, and trills. Vowels, glides and laryngeal segments are not consonantal."
 class,NA,approximant,"Approximant segments include vowels, glides, and liquids while excluding nasals and obstruents."
 class,NA,sonorant,"This feature describes the type of oral constriction that can occur in the vocal tract. [+son] designates the vowels and sonorant consonants (namely glides, liquids, and nasals), that are produced without an imbalance of air pressure in the vocal tract that might cause turbulence. [-son] describes the obstruents, articulated with a noticeable turbulence caused by an imbalance of air pressure in the vocal tract."
-class,NA,resonant,is it something
+class,NA,resonant," A sonorant or resonant is a speech sound that is produced with continuous, non-turbulent airflow in the vocal tract; sonorant is a narrower term, referring to all resonants except vowels and semivowels."
 laryngeal,NA,voice,This feature indicates whether vibration of the vocal folds occurs with the articulation of the segment.
 laryngeal,NA,spreadGlottis,"Used to indicate the aspiration of a segment, this feature denotes the openness of the glottis. For [+sg], the vocal folds are spread apart widely enough for frication to occur; for [-sg], there is not the same friction-inducing spreading."
 laryngeal,NA,constrictedGlottis,"The constricted glottis features denotes the degree of closure of the glottis. [+cg] implies that the vocal folds are held closely together, enough so that air cannot pass through momentarily, while [-cg] implies the opposite."

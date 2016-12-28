@@ -31,14 +31,14 @@ shinyUI(
       column(3, 
         h2(''),
         br(), 
-        h4('Output'), 
+        h4('Segments'), 
         br(),
         htmlOutput("symbols")
       ),
       column(5,
         h2(''),
         br(),
-        h4('Definitions'), 
+        h4('Feature descriptions'), 
         dataTableOutput('defs'),
         br()
       )
