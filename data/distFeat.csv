@@ -1,52 +1,52 @@
-allophone,html,voicing,place,mode,syllabic,consonantal,approximant,sonorant,resonant,voice,spreadGlottis,constrictedGlottis,continuant,nasal,strident,lateral,delayedRelease,labial,round,coronal,anterior,distributed,dorsal,high,low,front,back,pharyngeal,glottal
-i,i,voiced,high,front,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,+,0,0,+,-,+,-,-,-
-e,e,voiced,mid,front,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,+,0,0,-,-,+,-,-,-
-a,a,voiced,low,central,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,-,0,0,-,+,-,-,-,-
-o,o,voiced,mid,"back, rounded",+,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
-u,u,voiced,high,"back, rounded",+,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
-iGlide,i&#815;,voiced,high,front,-,-,-,-,+,+,-,-,+,-,-,-,-,-,-,0,+,0,0,+,-,+,-,-,-
-eGlide,e&#815;,voiced,mid,front,-,-,-,-,+,+,-,-,+,-,-,-,-,-,-,0,+,0,0,-,-,+,-,-,-
-oGlide,o&#815;,voiced,mid,"back, rounded",-,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
-uGlide,u&#815;,voiced,high,"back, rounded",-,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
-p,p,voiceless,bilabial,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
-t,t&#810;,voiceless,dental,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
-k,k,voiceless,velar,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
-b,b,voiced,bilabial,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
-d,d&#810;,voiced,dental,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
-g,g,voiced,velar,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
-phi,&#632; ,voiceless,bilabial,fricative,-,+,-,-,-,-,-,-,+,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
-f,f,voiceless,labiodental,fricative,-,+,-,-,-,-,-,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-,-,-
-th,&theta;,voiceless,interdental,fricative,-,+,-,-,-,-,-,0,+,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
-sap,s&#826;,voiceless,apico-alveolar,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,+,+,-,-,-,-,-,-,-,-
-s,s,voiceless,alveolar,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,+,+,+,-,-,-,-,-,-,-
-sh,&#643;,voiceless,alveopalatal,fricative,-,+,-,-,-,-,-,-,+,-,+,-,-,-,-,+,-,-,+,-,-,-,-,-,-
-x,x,voiceless,velar,fricative,-,+,-,-,-,-,-,0,+,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
-X,&chi;,voiceless,uvular,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,-,-,-,+,-,-,-,-,-,-
-h,h,voiceless,glottal,fricative,-,+,-,-,-,-,+,0,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,+
-v,v,voiced,labiodental,fricative,-,+,-,-,-,+,-,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-,-,-
-z,z,voiced,alveolar,fricative,-,+,-,-,-,+,-,0,+,-,+,-,-,-,-,+,+,+,-,-,-,-,-,-,-
-jj,&#658;,voiced,alveopalatal,fricative,-,+,-,-,-,+,-,-,+,-,+,-,-,-,-,+,-,-,+,-,-,-,-,-,-
-j,&#669;,voiced,palatal,fricative,-,+,-,-,-,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
-ts,&#x2A7;,voiceless,alveopalatal,affricate,-,+,-,-,-,-,-,0,+,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-
-ds,&#x2A4;,voiced,alveopalatal,affricate,-,+,-,-,-,+,-,0,+,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-
-B,&beta;,voiced,bilabial,approximate,-,+,+,+,+,+,-,0,+,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
-D,&eth;,voiced,dental,approximate,-,+,+,+,+,+,-,0,+,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
-J,j,voiced,palatal,approximate,-,-,+,+,+,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
-G,&gamma;,voiced,velar,approximate,-,+,+,+,+,+,-,0,+,-,-,-,-,-,-,-,+,-,+,+,-,-,-,-,-
-w,w,voiced,labiovelar,approximate,-,-,+,+,+,+,-,0,+,-,-,-,-,+,+,-,-,-,+,+,-,-,-,-,-
-lth,l&#800;,voiced,interdental,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,-,-,-,-,-,-,-,-
-ldn,l&#810;,voiced,dental,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,-,-,-,-,-,-,-,-
-l,l,voiced,alveolar,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,+,-,-,-,-,-,-,-
-lap,&#621;,voiced,alveopalatal,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,-,-,+,-,-,-,-,-,-
-Y,&#654;,voiced,palatal,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,-,-,+,+,-,-,-,-,-
-r,&#638;,voiced,alveolar,tap,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
-rr,r,voiced,alveolar,trill,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
-R,R,voiced,uvular,trill,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,-,-,0,+,-,-,-,-,-,-
-m,m,voiced,bilabial,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
-mf,&#625;,voiced,labiodental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,+,-,-,+,-,-,-,-,-,-,-,-
-nth,n&#800;,voiced,interdental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
-ndn,n&#810;,voiced,dental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
-n,n,voiced,alveolar,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
-nap,&#627;,voiced,alveopalatal,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,-,-,+,-,-,-,-,-,-
-nh,&#626;,voiced,palatal,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
-ng,&#331;,voiced,velar,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
+allophone,html,utf,voicing,place,mode,syllabic,consonantal,approximant,sonorant,resonant,voice,spreadGlottis,constrictedGlottis,continuant,nasal,strident,lateral,delayedRelease,labial,round,coronal,anterior,distributed,dorsal,high,low,front,back,pharyngeal,glottal
+i,i,i,voiced,high,front,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,+,0,0,+,-,+,-,-,-
+e,e,e,voiced,mid,front,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,+,0,0,-,-,+,-,-,-
+a,a,a,voiced,low,central,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,-,0,0,-,+,-,-,-,-
+o,o,o,voiced,mid,"back, rounded",+,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
+u,u,u,voiced,high,"back, rounded",+,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
+iGlide,i&#815;,i̯,voiced,high,front,-,-,-,-,+,+,-,-,+,-,-,-,-,-,-,0,+,0,0,+,-,+,-,-,-
+eGlide,e&#815;,e̯,voiced,mid,front,-,-,-,-,+,+,-,-,+,-,-,-,-,-,-,0,+,0,0,-,-,+,-,-,-
+oGlide,o&#815;,o̯,voiced,mid,"back, rounded",-,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
+uGlide,u&#815;,u̯,voiced,high,"back, rounded",-,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
+p,p,p,voiceless,bilabial,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+t,t&#810;,t̪,voiceless,dental,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+k,k,k,voiceless,velar,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
+b,b,b,voiced,bilabial,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+d,d&#810;,d̪,voiced,dental,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+g,g,g,voiced,velar,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
+phi,&#632;,ɸ,voiceless,bilabial,fricative,-,+,-,-,-,-,-,-,+,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+f,f,f,voiceless,labiodental,fricative,-,+,-,-,-,-,-,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-,-,-
+th,&theta;,θ,voiceless,interdental,fricative,-,+,-,-,-,-,-,0,+,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+sap,s&#826;,s̺,voiceless,apico-alveolar,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+s,s,s,voiceless,alveolar,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+sh,&#643;,ʃ,voiceless,alveopalatal,fricative,-,+,-,-,-,-,-,-,+,-,+,-,-,-,-,+,-,-,+,-,-,-,-,-,-
+x,x,x,voiceless,velar,fricative,-,+,-,-,-,-,-,0,+,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
+X,&chi;,χ,voiceless,uvular,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,-,-,-,+,-,-,-,-,-,-
+h,h,h,voiceless,glottal,fricative,-,+,-,-,-,-,+,0,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,+
+v,v,v,voiced,labiodental,fricative,-,+,-,-,-,+,-,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-,-,-
+z,z,z,voiced,alveolar,fricative,-,+,-,-,-,+,-,0,+,-,+,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+jj,&#658;,ʒ,voiced,alveopalatal,fricative,-,+,-,-,-,+,-,-,+,-,+,-,-,-,-,+,-,-,+,-,-,-,-,-,-
+j,&#669;,ʝ,voiced,palatal,fricative,-,+,-,-,-,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
+ts,&#x2A7;,ʧ,voiceless,alveopalatal,affricate,-,+,-,-,-,-,-,0,+,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-
+ds,&#x2A4;,ʤ,voiced,alveopalatal,affricate,-,+,-,-,-,+,-,0,+,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-
+B,&beta;,β,voiced,bilabial,approximant,-,+,+,+,+,+,-,0,+,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+D,&eth;,ð,voiced,dental,approximant,-,+,+,+,+,+,-,0,+,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+J,j,j,voiced,palatal,approximant,-,-,+,+,+,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
+G,&gamma;,ɣ,voiced,velar,approximant,-,+,+,+,+,+,-,0,+,-,-,-,-,-,-,-,+,-,+,+,-,-,-,-,-
+w,w,w,voiced,labiovelar,approximant,-,-,+,+,+,+,-,0,+,-,-,-,-,+,+,-,-,-,+,+,-,-,-,-,-
+lth,l&#800;,l̠,voiced,interdental,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,-,-,-,-,-,-,-,-
+ldn,l&#810;,l̪,voiced,dental,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,-,-,-,-,-,-,-,-
+l,l,l,voiced,alveolar,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,+,-,-,-,-,-,-,-
+lap,&#621;,ɭ,voiced,alveopalatal,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,-,-,+,-,-,-,-,-,-
+Y,&#654;,ʎ,voiced,palatal,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,-,-,+,+,-,-,-,-,-
+r,&#638;,ɾ,voiced,alveolar,tap,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+rr,r,r,voiced,alveolar,trill,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+R,R,ʀ,voiced,uvular,trill,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,-,-,0,+,-,-,-,-,-,-
+m,m,m,voiced,bilabial,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+mf,&#625;,ɱ,voiced,labiodental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,+,-,-,+,-,-,-,-,-,-,-,-
+nth,n&#800;,n̠,voiced,interdental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+ndn,n&#810;,n̪,voiced,dental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+n,n,n,voiced,alveolar,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+nap,&#627;,ɳ,voiced,alveopalatal,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,-,-,+,-,-,-,-,-,-
+nh,&#626;,ɲ,voiced,palatal,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
+ng,&#331;,ŋ,voiced,velar,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-

@@ -1,0 +1,52 @@
+allophone,html,utf,voicing,place,mode,syllabic,consonantal,approximant,sonorant,resonant,voice,spreadGlottis,constrictedGlottis,continuant,nasal,strident,lateral,delayedRelease,labial,round,coronal,anterior,distributed,dorsal,high,low,front,back,pharyngeal,glottal
+i,i,i,voiced,high,front,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,+,0,0,+,-,+,-,-,-
+e,e,e,voiced,mid,front,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,+,0,0,-,-,+,-,-,-
+a,a,a,voiced,low,central,+,-,-,-,+,+,-,-,+,-,-,-,-,0,-,0,-,0,0,-,+,-,-,-,-
+o,o,o,voiced,mid,"back, rounded",+,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
+u,u,u,voiced,high,"back, rounded",+,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
+iGlide,i&#815;,i<U+032F>,voiced,high,front,-,-,-,-,+,+,-,-,+,-,-,-,-,-,-,0,+,0,0,+,-,+,-,-,-
+eGlide,e&#815;,e<U+032F>,voiced,mid,front,-,-,-,-,+,+,-,-,+,-,-,-,-,-,-,0,+,0,0,-,-,+,-,-,-
+oGlide,o&#815;,o<U+032F>,voiced,mid,"back, rounded",-,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,-,-,-,+,-,-
+uGlide,u&#815;,u<U+032F>,voiced,high,"back, rounded",-,-,-,-,+,+,-,-,+,-,-,-,-,+,+,0,-,0,0,+,-,-,+,-,-
+p,p,p,voiceless,bilabial,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+t,t&#810;,t<U+032A>,voiceless,dental,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+k,k,k,voiceless,velar,stop,-,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
+b,b,b,voiced,bilabial,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+d,d&#810;,d<U+032A>,voiced,dental,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+g,g,g,voiced,velar,stop,-,+,-,-,-,+,-,-,-,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
+phi,&#632;,<U+0278>,voiceless,bilabial,fricative,-,+,-,-,-,-,-,-,+,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+f,f,f,voiceless,labiodental,fricative,-,+,-,-,-,-,-,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-,-,-
+th,&theta;,<U+03B8>,voiceless,interdental,fricative,-,+,-,-,-,-,-,0,+,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+sap,s&#826;,s<U+033A>,voiceless,apico-alveolar,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+s,s,s,voiceless,alveolar,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+sh,&#643;,<U+0283>,voiceless,alveopalatal,fricative,-,+,-,-,-,-,-,-,+,-,+,-,-,-,-,+,-,-,+,-,-,-,-,-,-
+x,x,x,voiceless,velar,fricative,-,+,-,-,-,-,-,0,+,-,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-
+X,&chi;,<U+03C7>,voiceless,uvular,fricative,-,+,-,-,-,-,-,0,+,-,+,-,-,-,-,-,-,-,+,-,-,-,-,-,-
+h,h,h,voiceless,glottal,fricative,-,+,-,-,-,-,+,0,+,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,+
+v,v,v,voiced,labiodental,fricative,-,+,-,-,-,+,-,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-,-,-
+z,z,z,voiced,alveolar,fricative,-,+,-,-,-,+,-,0,+,-,+,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+jj,&#658;,<U+0292>,voiced,alveopalatal,fricative,-,+,-,-,-,+,-,-,+,-,+,-,-,-,-,+,-,-,+,-,-,-,-,-,-
+j,&#669;,<U+029D>,voiced,palatal,fricative,-,+,-,-,-,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
+ts,&#x2A7;,<U+02A7>,voiceless,alveopalatal,affricate,-,+,-,-,-,-,-,0,+,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-
+ds,&#x2A4;,<U+02A4>,voiced,alveopalatal,affricate,-,+,-,-,-,+,-,0,+,-,+,-,+,-,-,+,-,-,+,-,-,-,-,-,-
+B,&beta;,<U+03B2>,voiced,bilabial,approximant,-,+,+,+,+,+,-,0,+,-,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+D,&eth;,<U+00F0>,voiced,dental,approximant,-,+,+,+,+,+,-,0,+,-,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+J,j,j,voiced,palatal,approximant,-,-,+,+,+,+,-,0,+,-,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
+G,&gamma;,<U+0263>,voiced,velar,approximant,-,+,+,+,+,+,-,0,+,-,-,-,-,-,-,-,+,-,+,+,-,-,-,-,-
+w,w,w,voiced,labiovelar,approximant,-,-,+,+,+,+,-,0,+,-,-,-,-,+,+,-,-,-,+,+,-,-,-,-,-
+lth,l&#800;,l<U+0320>,voiced,interdental,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,-,-,-,-,-,-,-,-
+ldn,l&#810;,l<U+032A>,voiced,dental,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,-,-,-,-,-,-,-,-
+l,l,l,voiced,alveolar,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,+,+,-,-,-,-,-,-,-
+lap,&#621;,<U+026D>,voiced,alveopalatal,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,-,-,+,-,-,-,-,-,-
+Y,&#654;,<U+028E>,voiced,palatal,lateral,-,+,-,+,+,+,-,0,+,-,-,+,-,-,-,+,-,-,+,+,-,-,-,-,-
+r,&#638;,<U+027E>,voiced,alveolar,tap,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+rr,r,r,voiced,alveolar,trill,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+R,R,<U+0280>,voiced,uvular,trill,-,+,-,+,+,+,-,0,+,-,-,-,-,-,-,-,-,0,+,-,-,-,-,-,-
+m,m,m,voiced,bilabial,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,+,+,-,+,+,-,-,-,-,-,-,-
+mf,&#625;,<U+0271>,voiced,labiodental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,+,-,-,+,-,-,-,-,-,-,-,-
+nth,n&#800;,n<U+0320>,voiced,interdental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+ndn,n&#810;,n<U+032A>,voiced,dental,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,-,-,-,-,-,-,-,-
+n,n,n,voiced,alveolar,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,+,+,-,-,-,-,-,-,-
+nap,&#627;,<U+0273>,voiced,alveopalatal,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,-,-,+,-,-,-,-,-,-
+nh,&#626;,<U+0272>,voiced,palatal,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,+,-,-,+,+,-,-,-,-,-
+ng,&#331;,<U+014B>,voiced,velar,nasal,-,+,-,+,+,+,-,0,-,+,-,-,-,-,-,-,-,-,+,+,-,-,-,-,-

@@ -5,6 +5,8 @@ library(DT); library(lingStuff)
 features <- distFeat[[1]]
 distFeatDefs <- distFeat[[2]]
 
+features[sapply(features, is.character)] <- lapply(features[sapply(features, is.character)], as.factor)
+
 function(input, output) {
 
   # Select specification of features for subsetting
@@ -37,16 +39,19 @@ function(input, output) {
     # Use sub to subset features dataframe
     temp <- Reduce(f = sub, init = features, x = input$in0)
 
+    # datatable(temp[3:6], rownames = FALSE, options = list(searching = FALSE, paging = FALSE, 
+              # scrollY = '300px'))
+
     # Return allophone column of subset
     print(c(paste0("<font face='Times New Roman' size='3'>",
                    '[ ', 
-                   temp[, 2], 
-                   ' ]: ', 
                    temp[, 3], 
-                   ', ', 
+                   ' ]: ', 
                    temp[, 4], 
                    ', ', 
                    temp[, 5], 
+                   ', ', 
+                   temp[, 6], 
                    "</br>", 
                    collapse = '')))
 

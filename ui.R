@@ -5,6 +5,9 @@ library(DT); library(lingStuff)
 features <- distFeat[[1]]
 distFeatDefs <- distFeat[[2]]
 
+features[sapply(features, is.character)] <- lapply(features[sapply(features, is.character)], as.factor)
+
+
 shinyUI(
   fluidPage(theme = shinytheme("united"),
     fluidRow(
@@ -13,7 +16,7 @@ shinyUI(
         wellPanel(
         # Drop down of all features
         selectInput(inputId = 'in0', label = 'Features', 
-                    choices = colnames(features[6:length(features)]), 
+                    choices = colnames(features[7:length(features)]), 
                     multiple = TRUE, selectize = TRUE), 
 
         # Radio buttons for features
