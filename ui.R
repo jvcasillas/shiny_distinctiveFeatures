@@ -5,8 +5,12 @@ library(DT); library(lingStuff)
 features <- distFeat[[1]]
 distFeatDefs <- distFeat[[2]]
 
+# Set characters as factors
 features[sapply(features, is.character)] <- lapply(features[sapply(features, is.character)], as.factor)
 
+for (i in 7:length(features)){
+    features[, i] <- factor(features[, i], levels = c("+", "-"))
+}
 
 shinyUI(
   fluidPage(theme = shinytheme("united"),

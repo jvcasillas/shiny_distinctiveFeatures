@@ -7,6 +7,10 @@ distFeatDefs <- distFeat[[2]]
 
 features[sapply(features, is.character)] <- lapply(features[sapply(features, is.character)], as.factor)
 
+for (i in 7:length(features)){
+    features[, i] <- factor(features[, i], levels = c("+", "-"))
+}
+
 function(input, output) {
 
   # Select specification of features for subsetting
