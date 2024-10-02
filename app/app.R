@@ -3,6 +3,21 @@ library("shinythemes")
 library("tidyr")
 library("dplyr")
 library("DT")
+library("bslib")
+
+# shinylive::export("app", "docs")
+
+theme <- bs_theme(
+  # Controls the default grayscale palette
+  bg = "#fff", fg = "#202123",
+  # Controls the accent (e.g., hyperlink, button, etc) colors
+  primary = "#cc0033", secondary = "#48DAC6",
+  base_font = c("Grandstander", "sans-serif"),
+  code_font = c("Courier", "monospace"),
+  heading_font = "'Helvetica Neue', Helvetica, sans-serif",
+  # Can also add lower-level customization
+  "input-border-color" = "#cc0033"
+)
 
 # Load datasets
 load("distFeat.RData")
@@ -19,7 +34,7 @@ for (i in 7:length(features)){
 }
 
 
-ui <- fluidPage(theme = shinytheme("united"),
+ui <- fluidPage(theme = theme,
   fluidRow(
     column(3,
       titlePanel("Spanish allophones", windowTitle = "Spanish allophones"),
