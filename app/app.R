@@ -22,7 +22,7 @@ for (i in 7:length(features)){
 ui <- fluidPage(theme = shinytheme("united"),
   fluidRow(
     column(3,
-      h1('Spanish allophones'),
+      titlePanel("Spanish allophones", windowTitle = "Spanish allophones"),
       wellPanel(
         # Drop down of all features
         selectInput(
